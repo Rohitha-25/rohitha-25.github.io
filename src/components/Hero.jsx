@@ -38,9 +38,6 @@ function ProfilePhoto() {
       <span className="font-display text-[80px] leading-none font-light text-olive-600 tracking-tight">
         {personal.initials}
       </span>
-      <span className="mt-3 font-body text-xs text-olive-400 tracking-[0.2em] uppercase">
-        
-      </span>
     </div>
   )
 }
