@@ -10,7 +10,7 @@ export const personal = {
   ],
   location:  'Hyderabad, India',
   email:     'rohithaponnapalli25@gmail.com',
-  photo:     '/photos/ro.jpg',
+  photo:     '/photo/ro.jpg',
   socials: {
     LinkedIn: 'https://www.linkedin.com/in/rohithaponnapalli/',
     GitHub:   'https://github.com/Rohitha-25',
