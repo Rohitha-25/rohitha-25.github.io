@@ -111,7 +111,7 @@ export default function Navbar() {
             </li>
           ))}
           <li>
-            <a href={`https://drive.google.com/file/d/1zWPcRaFAbWV8xCqNIxUkYbKSdCyAnPVl/view?usp=sharing`} className="btn-primary text-xs px-5 py-2.5 w-fit">
+            <a href={`https://drive.google.com/file/d/1lNexiRKwywhqUoF35X1-3RU_qQbak8wA/view?usp=sharing`} className="btn-primary text-xs px-5 py-2.5 w-fit">
               Resume
             </a>
           </li>
