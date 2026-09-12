@@ -104,7 +104,7 @@ export default function Hero() {
               style={{ animation: 'fadeUp 0.7s ease 0.5s both' }}
             >
               <a href="#projects" className="btn-primary">View My Work</a>
-              <a href="/resume/rohitha_resume.pdf" download="Rohitha_Resume.pdf" className="btn-outline">
+              <a href="/resume/rohitha_resume.pdf" download="RohithaPonnapalli_Resume.pdf" className="btn-outline">
                 Download Resume
                 <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
                   <path strokeLinecap="round" strokeLinejoin="round" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
