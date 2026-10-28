@@ -1,13 +1,12 @@
 import { skills } from '../data/portfolio'
 
 const ICONS = {
-  Programming:         '※',
-  'Backend & APIs':    '◈',
-  Frontend:            '✦',
-  'AI/LLM':            '◎',
-  Security:            '◉',
-  Databases:           '◇',
-  'Cloud & Tools':     '⌘',
+  Programming:            '※',
+  'Frameworks & APIs':    '◈',
+  'AI & Agentic Systems': '✦',
+  'Security & IAM':       '◬', 
+  Databases:              '◆',
+  'Cloud & Tools':        '⌘',
 }
 
 export default function Skills() {
