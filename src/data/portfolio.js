@@ -1,7 +1,7 @@
 export const personal = {
   name:      'Rohitha Ponnapalli',
   initials:  'Rohitha Ponnapalli',
-  role:      'Full-Stack Developer | AI-Integrated & Secure Applications',
+  role:      'Full-Stack Developer | AI & Identity Security',
   tagline:   'Engineering thoughtful software where code, security, and AI come together.',
   bio: [
     'I\'m a Full-Stack Developer focused on building secure, scalable web applications using Java, Spring Boot, React.js, Python, and relational databases. My experience spans REST API development, authentication and authorization, cloud deployment, and AI-integrated systems, including RAG pipelines and agentic AI workflows.',
@@ -72,7 +72,7 @@ export const projects = [
   {
     id:    3,
     name:  'Seek AI',
-    desc:  'A secure full-stack RAG application for querying of uploaded documents using natural-language. Users authenticate with JWT, upload documents, and receive context-grounded answers through a pipeline powered by Apache Tika, Gemini embeddings, similarity search, and Google Gemini.',
+    desc: 'A secure full-stack RAG application for querying uploaded documents using natural language. Users authenticate with JWT, upload documents, and receive context-grounded answers through a pipeline powered by Apache Tika, Gemini embeddings, similarity search, and Google Gemini.',
     tags: [
       'Spring Boot',
       'Spring Security',
