@@ -4,8 +4,8 @@ export const personal = {
   role:      'Full-Stack Developer | AI-Integrated & Secure Applications',
   tagline:   'Engineering thoughtful software where code, security, and AI come together.',
   bio: [
-    'I\'m a Full-Stack Developer focused on building secure, scalable web applications using Java, Spring Boot, React.js, and relational databases. I have hands-on experience developing REST APIs, authentication and authorization systems, cloud-deployed applications, and AI-integrated solutions using LLM integration, RAG, Spring AI, Google Gemini, and multi-agent workflows.',
-    'Building software is part logic, part craft — and blending both is what I enjoy most. I\'m particularly interested in exploring how software engineering, security, and AI can come together to create practical solutions. I enjoy learning by building, experimenting with new technologies, and turning ideas into working applications.',
+    'I\'m a Full-Stack Developer focused on building secure, scalable web applications using Java, Spring Boot, React.js, Python, and relational databases. My experience spans REST API development, authentication and authorization, cloud deployment, and AI-integrated systems, including RAG pipelines and agentic AI workflows.',
+    'I\'m particularly interested in the intersection of software engineering, identity security, and AI. Through hands-on projects, I\'ve explored OAuth 2.0/OIDC, Okta identity and access management, and AI-assisted security monitoring, alongside LLM integration and multi-agent systems. I enjoy learning by building, experimenting with new technologies, and turning ideas into practical solutions.',
     'When I\'m away from the terminal, you\'ll find me moving chess pieces, recording a melody, or chasing my next destination with a camera.',
   ],
   location:  'Hyderabad, India',
