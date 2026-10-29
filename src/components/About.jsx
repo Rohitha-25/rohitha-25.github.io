@@ -13,7 +13,7 @@ export default function About() {
           <div className="w-24 h-px bg-olive-300 hidden sm:block mb-3" />
         </div>
 
-        <div className="flex flex-col gap-8 max-w-3xl">
+        <div className="flex flex-col gap-8 max-w-4xl">
           <div className="space-y-5">
             {personal.bio.map((para, i) => (
               <p key={i} className="font-body text-olive-700/90 leading-relaxed text-[15px]">
