@@ -4,9 +4,9 @@ const ICONS = {
   Programming:            '※',
   'Frameworks & APIs':    '◈',
   'AI & Agentic Systems': '✦',
-  'Security & IAM':       '◬', 
+  'Security & IAM':       '⊶',
   Databases:              '◆',
-  'Cloud & Tools':        '⌘',
+  'Cloud & Tools':        '⊷',
 }
 
 export default function Skills() {
